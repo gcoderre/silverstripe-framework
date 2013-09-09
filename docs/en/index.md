@@ -79,10 +79,10 @@ Users of SilverStripe can find help on the [User help](http://userhelp.silverstr
 * [Emailing](/mailers)
 * [Debugging](/debugging)
 * [Command line tools](/cli)
-* [SilverStripe's architecture](/architecture)
 
 ## Framework concepts and tools
 
+* [Overview of SilverStripe's architecture](/framework/architecture)
 * [SilverStripe's application of MVC](/framework/mvc)
 * [Dependency injection / Inversion of control](/framework/ioc)
 
