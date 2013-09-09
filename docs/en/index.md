@@ -12,7 +12,7 @@ Users of SilverStripe can find help on the [User help](http://userhelp.silverstr
 
 ## Models
 
-* [Basics](/models/basics)
+* [Basics](/models)
 * [Default models](/models/default-models)
 * [Supported data types](/models/data-types)
 * [Migrations](/models/migrations)
@@ -31,27 +31,64 @@ Users of SilverStripe can find help on the [User help](http://userhelp.silverstr
 
 ## Controllers
 
-* [Overview](/controllers/overview)
+* [Overview](/controllers)
 * [Passing data to views](/controllers/views)
 * [Routing](/controllers/routing)
 * [Access control](/controllers/access-control)
 * [Related APIS](/controllers/apis)
 
-## Extending the CMS interface
+## Using the CMS interface
 
-* [Overview](cms/overview)
-* [Changing existing forms and pages](cms/changing-default-forms-and-pages)
-* [Adding sections to the CMS](cms/adding-sections)
-* [Managing models](cms/managing-models)
-* [Managing site settings](cms/site-settings)
-* [Access control](cms/access-control)
-* [Related APIs](cms/apis)
+* [Overview](/cms)
+* [Changing existing forms and pages](/cms/changing-default-forms-and-pages)
+* [Adding sections to the CMS](/cms/adding-sections)
+* [Managing models](/cms/managing-models)
+* [Managing site settings](/cms/site-settings)
+* [Access control](/cms/access-control)
+* [Related APIs](/cms/apis)
+
+## Extending SilverStripe
+
+* [Overview](/extending)
+* [Themes](/extending/themes)
+* [Modules](/extending/modules)
+* [Widgets](/extending/widgets)
+* 
+
+## Testing
+
+* [Overview](/testing)
+* [Unit tests](/testing/unit-tests)
+* [Functional tests](/testing/functional-tests)
+* [Integration tests](/testing/integration-tests)
+* [Available assertions](/testing/assertions)
+* [Extending the test framework](/testing/extending)
+* [Running tests](/testing/running-tests)
+* [Other testing approaches](/testings/other-approaches)
+* 
+
+## Digging deeper
+
+* [Internationalization](/i18n)
+* [Configuring SilverStripe](/configuring-silverstripe)
+* [Managing multiple environments](/environments)
+* [Caching](/caching)
+* [Emailing](/mailers)
+* [Debugging](/debugging)
+* [Command line tools](/cli)
+* [SilverStripe's architecture](/architecture)
+* 
+## Contributing to SilverStripe
+
+* [Reporting issues](/contributing/issues)
+* [Contributing code](/contrbuting/code)
+* [Writing documentation](/contributing/documentation)
+* [Translating SilverStripe](/contributing/translations)
 
 --------
 
 Lots more to add here:
 
-* Developing themes
 * Internationalization
 * Configuration
 * Environments
@@ -60,6 +97,4 @@ Lots more to add here:
 * Debugging
 * Command line tools
 * Contributing
-* Modules
-* Widgets
 * Testing
