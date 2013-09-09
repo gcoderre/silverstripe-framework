@@ -53,7 +53,6 @@ Users of SilverStripe can find help on the [User help](http://userhelp.silverstr
 * [Themes](/extending/themes)
 * [Modules](/extending/modules)
 * [Widgets](/extending/widgets)
-* 
 
 ## Testing
 
@@ -65,7 +64,6 @@ Users of SilverStripe can find help on the [User help](http://userhelp.silverstr
 * [Extending the test framework](/testing/extending)
 * [Running tests](/testing/running-tests)
 * [Other testing approaches](/testings/other-approaches)
-* 
 
 ## Digging deeper
 
@@ -77,24 +75,10 @@ Users of SilverStripe can find help on the [User help](http://userhelp.silverstr
 * [Debugging](/debugging)
 * [Command line tools](/cli)
 * [SilverStripe's architecture](/architecture)
-* 
+
 ## Contributing to SilverStripe
 
 * [Reporting issues](/contributing/issues)
 * [Contributing code](/contrbuting/code)
 * [Writing documentation](/contributing/documentation)
 * [Translating SilverStripe](/contributing/translations)
-
---------
-
-Lots more to add here:
-
-* Internationalization
-* Configuration
-* Environments
-* Caching
-* Mailing
-* Debugging
-* Command line tools
-* Contributing
-* Testing
