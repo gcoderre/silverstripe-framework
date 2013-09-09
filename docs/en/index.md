@@ -79,6 +79,6 @@ Users of SilverStripe can find help on the [User help](http://userhelp.silverstr
 ## Contributing to SilverStripe
 
 * [Reporting issues](/contributing/issues)
-* [Contributing code](/contrbuting/code)
+* [Contributing code](/contributing/code)
 * [Writing documentation](/contributing/documentation)
 * [Translating SilverStripe](/contributing/translations)
