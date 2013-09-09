@@ -53,6 +53,11 @@ Users of SilverStripe can find help on the [User help](http://userhelp.silverstr
 * [Themes](/extending/themes)
 * [Modules](/extending/modules)
 * [Widgets](/extending/widgets)
+* [Modules provided by default](/extending/default-modules)
+  * Content versioning
+  * Content hierarchy
+  * Full-text searching
+* [Notable community modules](/extending/notable-community-modules)
 
 ## Testing
 
@@ -75,6 +80,11 @@ Users of SilverStripe can find help on the [User help](http://userhelp.silverstr
 * [Debugging](/debugging)
 * [Command line tools](/cli)
 * [SilverStripe's architecture](/architecture)
+
+## Framework concepts and tools
+
+* [SilverStripe's application of MVC](/framework/mvc)
+* [Dependency injection / Inversion of control](/framework/ioc)
 
 ## Contributing to SilverStripe
 
