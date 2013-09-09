@@ -35,7 +35,7 @@ Users of SilverStripe can find help on the [User help](http://userhelp.silverstr
 * [Passing data to views](/controllers/views)
 * [Routing](/controllers/routing)
 * [Access control](/controllers/access-control)
-* [Related APIS](/controllers/apis)
+* [Related APIs](/controllers/apis)
 
 ## Using the CMS interface
 
